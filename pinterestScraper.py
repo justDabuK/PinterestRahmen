@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from selenium import webdriver
 from pinterest_scraper import scraper as s
 import sys
